@@ -13,19 +13,16 @@ Before running the script, make sure you have the following:
 ## Installation
 
 1. Clone the repository:   
-```git clone https://github.com/your-username/tender-tiger-scraper.git```
-
-
-### Install Dependencies
-
-Run the following command to install the required Python packages:
-
+<button onclick="copyToClipboard('git-clone')">Copy</button>
+``` shell
+git clone https://github.com/notTanveer/WebScraping.git```
+```
+2.  Run the following command to install the required Python packages:
 <button onclick="copyToClipboard('pip-install')">Copy</button>
 
-
-```pip install -r requirements.txt``` 
-
-
+```shell
+pip install -r requirements.txt 
+```
 
 ## Usage
 
