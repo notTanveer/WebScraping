@@ -1,4 +1,4 @@
-# Web Scraping and Data Extraction
+# Web Scraping 
 
 This Python script performs web scraping on the TenderTiger website to extract tender information and stores it in a Google Sheets document. The script uses the Selenium library to automate browsing and data extraction.
 
