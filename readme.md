@@ -1,4 +1,4 @@
-# Web Scraping and Data Extraction
+# Web Scraping 
 
 This Python script performs web scraping on the TenderTiger website to extract tender information and stores it in a Google Sheets document. The script uses the Selenium library to automate browsing and data extraction.
 
@@ -15,6 +15,7 @@ Before running the script, make sure you have the following:
 1. Clone the repository:   
 <button onclick="copyToClipboard('git-clone')">Copy</button>
 ``` shell
+<<<<<<< HEAD
 git clone https://github.com/your-username/tender-tiger-scraper.git```
 ```
 2.  Run the following command to install the required Python packages:
@@ -23,7 +24,16 @@ git clone https://github.com/your-username/tender-tiger-scraper.git```
 ```shell
 pip install -r requirements.txt 
 ```
+=======
+git clone https://github.com/notTanveer/WebScraping.git```
+```
+2.  Run the following command to install the required Python packages:
+<button onclick="copyToClipboard('pip-install')">Copy</button>
+>>>>>>> b107cba873e5e753008a7a761d39d532ad1c7f60
 
+```shell
+pip install -r requirements.txt 
+```
 
 ## Usage
 
