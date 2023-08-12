@@ -16,8 +16,15 @@ Before running the script, make sure you have the following:
 ```git clone https://github.com/your-username/tender-tiger-scraper.git```
 
 
-2. Install the required Python packages:  
-```pip install -r requirements.txt```
+### Install Dependencies
+
+Run the following command to install the required Python packages:
+
+<button onclick="copyToClipboard('pip-install')">Copy</button>
+
+```shell
+pip install -r requirements.txt
+
 
 
 ## Usage
