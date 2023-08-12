@@ -22,8 +22,8 @@ Run the following command to install the required Python packages:
 
 <button onclick="copyToClipboard('pip-install')">Copy</button>
 
-```shell
-pip install -r requirements.txt
+
+```pip install -r requirements.txt``` 
 
 
 
