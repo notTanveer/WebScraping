@@ -13,21 +13,13 @@ Before running the script, make sure you have the following:
 ## Installation
 
 1. Clone the repository:   
-<button onclick="copyToClipboard('git-clone')">Copy</button>
+<button onclick="copyToClipboard('git-clone')"></button>
 ``` shell
 git clone https://github.com/notTanveer/WebScraping.git
 ```
 
 2.  Run the following command to install the required Python packages:
-<button onclick="copyToClipboard('pip-install')">Copy</button>
-
-```shell
-pip install -r requirements.txt 
-```
-
-2.  Run the following command to install the required Python packages:
-<button onclick="copyToClipboard('pip-install')">Copy</button>
->>>>>>> b107cba873e5e753008a7a761d39d532ad1c7f60
+<button onclick="copyToClipboard('pip-install')"></button>
 
 ```shell
 pip install -r requirements.txt 
