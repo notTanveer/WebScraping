@@ -68,8 +68,7 @@ for i in range(1, 102):
     print(api_requests_counter)
 
     if api_requests_counter == 11:
-        print("Pausing for 45 seconds to comply with API rate limits...")
-        time.sleep(45)  # Pause for 30 seconds
+        time.sleep(45)  # Pause for 45 seconds
 
         # Reset the API requests counter
         api_requests_counter = 0
